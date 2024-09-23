@@ -1,0 +1,44 @@
+body
+{
+    background-color: lightgray;
+}
+*
+{
+    margin: 5px;
+}
+
+h1
+{
+    background-color: lightblue;
+    color: white;
+}
+
+footer
+{
+    clear: both;
+    background-color: lightblue;
+    color: white;
+    float: bottom;
+}
+
+.der{
+    float: left;
+    width: 20%;
+    border-left: 1px solid gray;
+}
+
+.izq
+{
+    float: left;
+    width: 20%;
+    border-right: 1px solid gray;
+
+}
+
+.contenido
+{
+    float: left;
+    width: 50%;
+height: 100vw;
+    
+}

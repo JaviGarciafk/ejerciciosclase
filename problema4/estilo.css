@@ -1,0 +1,40 @@
+body
+{
+    background-color: lightgray;
+}
+
+div
+{
+
+
+}
+
+.caja1
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 50px;
+    
+}
+
+
+.caja2
+{
+    position: absolute;
+    left: 0;
+top: 50px;
+    width: auto;
+    height: 100vw;
+    background-color: darkgray;
+}
+
+.caja3
+{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 80px;
+}

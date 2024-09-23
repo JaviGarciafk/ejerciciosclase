@@ -1,0 +1,31 @@
+body
+{
+    background-color: lightgray;
+}
+div
+{
+    margin-left: 5px;
+padding: 5px;
+
+}
+.caja1
+{
+    position: absolute;
+
+    background-color: yellow;
+
+    height: fit-content;
+    width: 150px; 
+    float: left;
+}
+
+.caja2
+{
+    position: absolute;
+    background-color: lightyellow;
+margin-left: 5px;
+padding: 5px;
+
+float: right;
+
+}

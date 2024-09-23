@@ -1,0 +1,20 @@
+div
+{
+  background-color: rgb(160, 0, 0);
+  padding: 5px;
+  margin-bottom: 5px;
+ width: 350px; 
+}
+
+body
+{
+    background-color: lightgray;
+}
+
+.caja2
+{
+    background-color: yellow;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}

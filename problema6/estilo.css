@@ -1,0 +1,16 @@
+body
+{background-color: lightgrey;}
+
+.imagen
+{
+    padding: 5px;
+    float: right;
+
+}
+
+.par
+{
+    left: 0;
+    top: 0;
+    text-align: justify;
+}

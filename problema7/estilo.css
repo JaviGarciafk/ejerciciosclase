@@ -1,0 +1,12 @@
+body
+{
+    background-color: lightgray;
+}
+
+div
+{
+    background-color: lightyellow;
+    width: 200px;
+    float: left;
+    margin: 2px;
+}
