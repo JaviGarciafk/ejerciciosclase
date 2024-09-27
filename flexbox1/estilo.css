@@ -1,0 +1,20 @@
+.caja2
+{
+    width: 150%;
+}
+
+div
+{
+    background-color: gray;
+    border: 2px solid black;
+    padding: 5px;
+    
+}
+
+body
+{
+    background-color: lightgray;
+    display: flex;
+}
+
+

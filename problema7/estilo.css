@@ -6,7 +6,8 @@ body
 div
 {
     background-color: lightyellow;
-    width: 200px;
+    box-sizing: border-box;
+    width: 24.4731%;
     float: left;
     margin: 2px;
 }

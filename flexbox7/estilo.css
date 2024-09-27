@@ -1,0 +1,22 @@
+body
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+    height: 400px;
+    
+ 
+    
+
+}
+
+div
+{
+    background-color: dodgerblue;
+    color: white;
+    height: 150px;
+    width: 150px;
+    font-size: 20px;
+}
