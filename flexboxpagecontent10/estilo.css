@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+header,
+nav,
+main,
+aside,
+footer {
+    width: 75vw;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header {
+    background-color: lightpink;
+}
+footer {
+    background-color: violet;
+}
+
+nav {
+    background-color: blueviolet;
+    height: 40px;
+}
+
+main,
+aside {
+    height: calc(100vh - 80px - 80px - 40px);
+}
+
+main {
+}
+
+
+aside {
+    background-color: pink;
+
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+}
+
+p {
+    margin: 0;
+}
+
+
+
+.rpanel {
+    width: 25vw;
+    height: 100vh;
+
+}
